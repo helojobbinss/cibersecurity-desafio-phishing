@@ -1,0 +1,32 @@
+BOOTCAMP DE CIBERSEGURANÇA – PROJETO PHISHING
+
+Durante o bootcamp da DIO em parceria com a Santander foi estudado conceitos básicos de rede de computadores, usando uma máquina virtual com o sistema operacional Kali Linux.
+Como um dos projetos práticos realizados, foi proposto a criação de um ataque de engenharia social, onde deveria ser criado um site clone da página do facebook.
+Para o projeto, utilizados a máquina virtual com o Kali Linux e a ferramenta Social-Engineer Toolkit, ou Setoolkit, uma ferramenta de código aberto utilizada para desenvolver projetos de engenharia social.
+Projeto:
+•	Para que o projeto fosse realizado, rede da máquina virtual precisou estar em modo bridge com adaptador wireless
+•	O setoolkit é acessado via terminal com o acesso root através do comando sudo su  
+
+ 
+
+
+•	A ferramenta utiliza menus para guiar e realizar os projetos, a ideia proposta é realizar um ataque de engenharia social, indicado por 1
+ 
+•	Após isso é apresentado um segundo menu com possíveis ataques de engenharia social que podem ser realizados, para o projeto foi utilizado a opção 2, Website attack Vectors
+ 
+•	Após selecionar, a ferramenta descreve os possíveis ataques a serem realizados, descrevendo suas funções antes de criar o projeto e permitindo entender os ataques que podem ser feitos. O ataque proposto pelo projeto é a criação de um site clone para a coleta de credenciais. Para isso foi selecionado a opção 3, Credential Harvester Attack Method.
+ 
+ 
+•	Ele apresenta 3 métodos para coleta de credenciais:
+1.	Criação do site clone
+2.	Web templates
+3.	Custom Imports
+ 
+•	Para a criação de um site clone, é solicitado o endereço de IP onde irá ser criado o clone assim como a URL que será clonada
+ 
+•	Ao acessar o IP que foi fornecido pelo navegador web, a página será igual a clonada
+ 
+Resultado quando a pessoa coloca usuário e senha
+ 
+
+
